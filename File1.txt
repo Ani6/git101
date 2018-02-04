@@ -1,3 +1,4 @@
 File1
 First line in GIT!
 Second line after Git commit
+3rd line
