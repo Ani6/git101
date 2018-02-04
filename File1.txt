@@ -2,3 +2,7 @@ File1
 First line in GIT!
 Second line after Git commit
 3rd line
+4th line
+5th line
+6th line
+7th line
